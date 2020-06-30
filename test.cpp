@@ -30,6 +30,7 @@ git status  确认本地缓存区的状态
 
 
 
+
 git diff --cached查看已缓存的改动
 git diff HEAD查看全部改动
 git diff --stat显示摘要
