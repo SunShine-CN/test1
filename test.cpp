@@ -9,7 +9,8 @@ int main(void)
     cout << "hello world" << endl;
     printf("sunjun is good!\n");
     scanf("%d",&a);
-    printf("u");
+    printf("u   %d",a);
+    scanf("%d",&a);
     return 0;
 }
 
