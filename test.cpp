@@ -8,6 +8,7 @@ int main(void)
     int a;
     cout << "hello world" << endl;
     printf("sunjun is good!\n");
+    printf("sunjun is good!\n");
     scanf("%d",&a);
     printf("u");
     return 0;
@@ -47,4 +48,5 @@ git pull从远端提取数据并合并到当前分支
 git branch --set-upstream-to=远程主机名/远程分支名 本地分支名
 git checkout -b 本地分支名 远程主机名/远程分支名
 git push -u 远程主机名 本地分支名
+sss
 */
